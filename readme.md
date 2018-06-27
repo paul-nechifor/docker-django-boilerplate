@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/docker-django-boilerplate](http://gitlab.com/paul-nechifor/docker-django-boilerplate).
+
+Old readme:
+
 # Docker Django Boilerplate
 
 My default setup for a Django site with Docker.
